@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.63351674.css",
-    "main.js": "/static/js/main.9be79ceb.js",
+    "main.css": "/static/css/main.06cb36ec.css",
+    "main.js": "/static/js/main.0f445f38.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/netflix3.png": "/static/media/netflix3.982462490c2fbcec252a.png",
     "static/media/cryptoTracker.png": "/static/media/cryptoTracker.0154b0cfcdc4d4c0fcba.png",
+    "static/media/banner2.png": "/static/media/banner2.13e2ed39845337e257ed.png",
     "static/media/HopeHarbor.png": "/static/media/HopeHarbor.3feb7abb3255855109d7.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -23,6 +24,7 @@
     "static/media/java-programming-language-icon.svg": "/static/media/java-programming-language-icon.8cb1fd4a951e0324c83e632215f39b64.svg",
     "static/media/node-js-icon.svg": "/static/media/node-js-icon.10354602b1c0786e53037290e5ad547a.svg",
     "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/mui.svg": "/static/media/mui.23d4844c0aabfdaf92bdbc6f733dd640.svg",
     "static/media/mongodb-icon.svg": "/static/media/mongodb-icon.e4025ae2e63465b0904a45c7f69b1610.svg",
     "static/media/typescript-programming-language-icon.svg": "/static/media/typescript-programming-language-icon.488c71009bd8fd3858119d44e4230925.svg",
     "static/media/bootstrap-4-icon.svg": "/static/media/bootstrap-4-icon.a1951bfa31b161330ed7b1786545f8ab.svg",
@@ -31,15 +33,17 @@
     "static/media/html-icon.svg": "/static/media/html-icon.115310285b7fd7194c7afea2c04ec0f7.svg",
     "static/media/git-icon.svg": "/static/media/git-icon.c0ad6253313a0547812bfb9a9f0894d6.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.ffafba6a9d905f648573b9ed0f0f92dd.svg",
+    "static/media/github-icon.svg": "/static/media/github-icon.6e1e0c0b30915a84cd21a5d1979a485a.svg",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.3d14b073009b500132541303aa5adcfc.svg",
     "index.html": "/index.html",
     "static/media/chakra-ui.svg": "/static/media/chakra-ui.8f791eb1fcdeee99e986e3c034cff906.svg",
-    "main.63351674.css.map": "/static/css/main.63351674.css.map",
-    "main.9be79ceb.js.map": "/static/js/main.9be79ceb.js.map",
+    "main.06cb36ec.css.map": "/static/css/main.06cb36ec.css.map",
+    "main.0f445f38.js.map": "/static/js/main.0f445f38.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63351674.css",
-    "static/js/main.9be79ceb.js"
+    "static/css/main.06cb36ec.css",
+    "static/js/main.0f445f38.js"
   ]
 }
