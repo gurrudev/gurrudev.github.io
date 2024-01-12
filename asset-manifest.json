@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06cb36ec.css",
-    "main.js": "/static/js/main.0f445f38.js",
+    "main.css": "/static/css/main.8d4a6a52.css",
+    "main.js": "/static/js/main.e2c48d12.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/netflix3.png": "/static/media/netflix3.982462490c2fbcec252a.png",
     "static/media/cryptoTracker.png": "/static/media/cryptoTracker.0154b0cfcdc4d4c0fcba.png",
@@ -38,12 +38,12 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/tailwind.svg": "/static/media/tailwind.3d14b073009b500132541303aa5adcfc.svg",
     "static/media/chakra-ui.svg": "/static/media/chakra-ui.8f791eb1fcdeee99e986e3c034cff906.svg",
-    "main.06cb36ec.css.map": "/static/css/main.06cb36ec.css.map",
-    "main.0f445f38.js.map": "/static/js/main.0f445f38.js.map",
+    "main.8d4a6a52.css.map": "/static/css/main.8d4a6a52.css.map",
+    "main.e2c48d12.js.map": "/static/js/main.e2c48d12.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06cb36ec.css",
-    "static/js/main.0f445f38.js"
+    "static/css/main.8d4a6a52.css",
+    "static/js/main.e2c48d12.js"
   ]
 }
