@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d4a6a52.css",
-    "main.js": "/static/js/main.11e05ec6.js",
+    "main.css": "/static/css/main.af4bf3f5.css",
+    "main.js": "/static/js/main.d2b53ab9.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/netflix3.png": "/static/media/netflix3.982462490c2fbcec252a.png",
     "static/media/cryptoTracker.png": "/static/media/cryptoTracker.0154b0cfcdc4d4c0fcba.png",
     "static/media/banner2.png": "/static/media/banner2.13e2ed39845337e257ed.png",
     "static/media/HopeHarbor.png": "/static/media/HopeHarbor.3feb7abb3255855109d7.png",
+    "static/media/Telegram-Bot.png": "/static/media/Telegram-Bot.c64ad7c7514d6202674a.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -38,12 +39,12 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/tailwind.svg": "/static/media/tailwind.3d14b073009b500132541303aa5adcfc.svg",
     "static/media/chakra-ui.svg": "/static/media/chakra-ui.8f791eb1fcdeee99e986e3c034cff906.svg",
-    "main.8d4a6a52.css.map": "/static/css/main.8d4a6a52.css.map",
-    "main.11e05ec6.js.map": "/static/js/main.11e05ec6.js.map",
+    "main.af4bf3f5.css.map": "/static/css/main.af4bf3f5.css.map",
+    "main.d2b53ab9.js.map": "/static/js/main.d2b53ab9.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d4a6a52.css",
-    "static/js/main.11e05ec6.js"
+    "static/css/main.af4bf3f5.css",
+    "static/js/main.d2b53ab9.js"
   ]
 }
