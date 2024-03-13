@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.af4bf3f5.css",
-    "main.js": "/static/js/main.d2b53ab9.js",
-    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "main.css": "/static/css/main.2ef8069e.css",
+    "main.js": "/static/js/main.4cb65d9e.js",
+    "static/js/787.e02c0aaf.chunk.js": "/static/js/787.e02c0aaf.chunk.js",
     "static/media/netflix3.png": "/static/media/netflix3.982462490c2fbcec252a.png",
     "static/media/cryptoTracker.png": "/static/media/cryptoTracker.0154b0cfcdc4d4c0fcba.png",
     "static/media/banner2.png": "/static/media/banner2.13e2ed39845337e257ed.png",
@@ -39,12 +39,12 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/tailwind.svg": "/static/media/tailwind.3d14b073009b500132541303aa5adcfc.svg",
     "static/media/chakra-ui.svg": "/static/media/chakra-ui.8f791eb1fcdeee99e986e3c034cff906.svg",
-    "main.af4bf3f5.css.map": "/static/css/main.af4bf3f5.css.map",
-    "main.d2b53ab9.js.map": "/static/js/main.d2b53ab9.js.map",
-    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+    "main.2ef8069e.css.map": "/static/css/main.2ef8069e.css.map",
+    "main.4cb65d9e.js.map": "/static/js/main.4cb65d9e.js.map",
+    "787.e02c0aaf.chunk.js.map": "/static/js/787.e02c0aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af4bf3f5.css",
-    "static/js/main.d2b53ab9.js"
+    "static/css/main.2ef8069e.css",
+    "static/js/main.4cb65d9e.js"
   ]
 }
